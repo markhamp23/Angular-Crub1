@@ -1,6 +1,11 @@
-# Client
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+# Angular Tutorials
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+
+## Prerequisites
+
+Both the CLI and generated project have dependencies that require Node 8.9 or higher, together with NPM 5.5.1 or higher.
 
 ## Development server
 
